@@ -15,7 +15,7 @@ class PasswordGeneratorTools:
         self.digits = list(string.digits)
         self.parameters = parameters
         #   picking all random choices
-        self.characters = list(string.ascii_letters + string.digits + "!@#$%^&*()")
+        self.characters = self.alphabets + self.special_characters + self.digits
 
 
     def __str__(self):
