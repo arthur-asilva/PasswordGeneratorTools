@@ -1,0 +1,4 @@
+build/
+dist/
+password_generator_tools.egg-info/
+setup.py
