@@ -1,5 +1,5 @@
 # PasswordGeneratorTools
-This package was made to help you with simple daily tasks like generating password suggestions. To use, you need to install the package from pip install password-generator-tools==0.1.0 or clone these files.
+This package was made to help you with simple daily tasks like generating password suggestions. To use, you need to install the package from pip install password-generator-tools or clone these files.
 
 # Import
 Use the below code to import the package into your project after installation:
